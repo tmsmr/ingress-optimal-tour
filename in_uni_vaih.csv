@@ -1,0 +1,11 @@
+X,HdM,Sternwarte,Cafeteria,Universum,Unibib,S-Bahn,Mensch,Commundo,Windrad,Raumfahrtzentrum
+HdM,,,,,,,,,,
+Sternwarte,,,,,,,,,,
+Cafeteria,0.5km,30m,,,,,,,,
+Universum,,,20m,,,,,,,
+Unibib,,,,20m,,,,,,
+S-Bahn,,,,,25m,,,,,
+Mensch,,,,,,20m,,,,
+Commundo,,,,,,40m,40m,,,
+Windrad,,160m,160m,,,,,,,
+Raumfahrtzentrum,,200m,200m,,,,,,40m,
